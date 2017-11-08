@@ -1,0 +1,9 @@
+#Ignore below files:
+
+#out - result of building
+/out/
+TestingPurpose.iml
+
+#InteliJ files
+/.idea/
+
